@@ -12,11 +12,6 @@
 * [chat4u](https://github.com/li-plus/chat4u.git)
 * [王登科 - 我用我的微信聊天记录和 280 篇博客文章，做了我自己的数字克隆AI](https://greatdk.com/1908.html)
 
-# 目录
-1.0 [微信聊天记录导出](#-1.0-微信聊天记录导出)
-
-4.0 [部署](#-4.0-部署)
-
 # 0.0 
 本教程将采用MacOS视角进行讲述
 
@@ -119,6 +114,7 @@ git clone https://github.com/hiyouga/LLaMA-Factory.git
   }
 ```
 即可。之后，我们需要把之前创建的`data.json`放到`LLaMA-Factory/data/`路径下
+
 2. **环境搭建（Recommended）**
 
 将重新整理好的LLaMA-Factory上传到云实例后，建议大家创建一个新的环境并安装依赖包，例如：
