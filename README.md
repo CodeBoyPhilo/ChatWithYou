@@ -1,3 +1,5 @@
+# 👉 [中文版README](README-ZH.md) 👈
+
 > :warning: **AI Translation**: Some contents in this README file is AI translated with adaption.
 
 # Introduction
